@@ -36,15 +36,6 @@ To run the portfolio locally:
    ```bash
    cd Naren-portfolio
    ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and go to `http://localhost:3000` to view the portfolio.
 
 ## Contributing
 
